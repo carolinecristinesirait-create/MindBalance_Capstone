@@ -1003,7 +1003,7 @@ def page_executive_overview():
             <div class="hero-title">MindBalance Dashboard</div>
             <div class="hero-subtitle">
                 Dashboard interaktif untuk mengeksplorasi pola gaya hidup,
-                indikator fisik, dan prediksi awal tingkat kecemasan menggunakan model AI.
+                indikator fisik, dan prediksi awal tingkat kecemasan.
             </div>
             <div class="hero-pill-row">
                 <span class="hero-pill">📊 Interactive EDA</span>
