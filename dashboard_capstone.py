@@ -1002,7 +1002,7 @@ def page_executive_overview():
         <div class="hero-card">
             <div class="hero-title">MindBalance Dashboard</div>
             <div class="hero-subtitle">
-                Dashboard interaktif berwarna maroon-putih untuk mengeksplorasi pola gaya hidup,
+                Dashboard interaktif untuk mengeksplorasi pola gaya hidup,
                 indikator fisik, dan prediksi awal tingkat kecemasan menggunakan model AI.
             </div>
             <div class="hero-pill-row">
