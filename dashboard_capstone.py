@@ -329,7 +329,7 @@ if menu == "📊 Interactive EDA":
         sns.heatmap(
             numeric_df.corr(),
             annot=True,
-            cmap="Coolwarm",
+            cmap="coolwarm",
             fmt=".2f",
             ax=ax
         )
